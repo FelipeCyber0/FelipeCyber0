@@ -4,7 +4,7 @@
 
 👨‍💻 Felipe, 18 anos | Cursando Análise e Desenvolvimento de Sistemas (ADS) na UNA
 
-💻 💻 Tecnologia e desenvolvimento de software.
+💻 Tecnologia e desenvolvimento de software.
 
 🚀 Sempre aprendendo e evoluindo como desenvolvedor.
 
