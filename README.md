@@ -58,7 +58,5 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg"
 />
-    
-/>
 <br/>
 <br/>
