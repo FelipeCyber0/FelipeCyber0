@@ -50,6 +50,17 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    ```html
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg"
+/>
+    
+/>
 <br/>
 <br/>
